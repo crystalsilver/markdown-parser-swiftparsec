@@ -47,7 +47,7 @@
 		1A8579481DA3180E00923BE9 /* MarkdownKitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownKitTests.swift; sourceTree = "<group>"; };
 		1A85794A1DA3180E00923BE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A8579541DA3183800923BE9 /* Markdown.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Markdown.swift; sourceTree = "<group>"; };
-		1A8579571DA3190700923BE9 /* basic.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = basic.md; path = "/Users/james/Desktop/markdown-parser/MarkdownKitTests/basic.md"; sourceTree = "<absolute>"; };
+		1A8579571DA3190700923BE9 /* basic.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = basic.md; sourceTree = "<group>"; };
 		1AC8B8611D9735FE00FD6971 /* SwiftParsec.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SwiftParsec.xcodeproj; path = "../../Downloads/SwiftParsec-2.0-dev-latest/SwiftParsec.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
